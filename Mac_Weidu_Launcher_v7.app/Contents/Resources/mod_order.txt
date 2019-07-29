@@ -82,6 +82,7 @@ totdg
 innershade
 whitequeen
 eilistraee
+isnf
 fishingfortrouble
 southernedge
 ooze
@@ -104,6 +105,7 @@ kivan
 fade
 kindrek
 xan
+yeslicknpc
 gavin_bg2
 yasraena
 alora
@@ -175,6 +177,7 @@ haerdalisromance
 nephele
 nephele_eet
 ub
+skiecost
 g3anniversary
 alternatives
 fadingpromises
@@ -226,6 +229,7 @@ wildmage
 deepgnomes
 ee_content_tweaks
 w_packmule
+unofficial item pack
 hammers
 s3disclubs
 silver_staff_of_aule
@@ -258,6 +262,7 @@ a7#improvedshamanicdance
 item_rev
 s9houserules
 housetweaks
+c#sodtweaks
 cdtweaks
 metweaks
 imoencandie
