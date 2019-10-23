@@ -100,7 +100,6 @@ bg2eear
 bg2eew
 amber_eet
 ajantisbg2
-ajantisportraitpack
 kivan
 fade
 kindrek
@@ -175,7 +174,6 @@ npcflirt
 re
 haerdalisromance
 nephele
-nephele_eet
 ub
 skiecost
 g3anniversary
@@ -196,7 +194,7 @@ sirene_bg2
 acbre
 eternalimoen
 djinnicompanion
-iylos_eet
+iylos
 wilsonchronicles
 crossmodbg2
 spell_rev
