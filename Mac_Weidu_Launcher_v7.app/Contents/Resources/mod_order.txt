@@ -255,6 +255,7 @@ derats_kits
 a7#improvedarcher
 charlatan
 might_and_guile
+fnp_multiclass
 poison_no_bypass
 a7#improvedshamanicdance
 item_rev
@@ -269,8 +270,8 @@ eet_end
 animalcompanions
 refinements
 scales_of_balance
-magic_battles_revised
 stratagems
+magic_battles_revised
 bgeespawn
 npc_strongholds
 butchery
