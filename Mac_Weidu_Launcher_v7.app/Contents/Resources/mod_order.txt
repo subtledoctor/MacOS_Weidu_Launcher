@@ -247,9 +247,10 @@ tomeandblood
 a7-golemconstruction
 a7-chaossorcerer
 palemaster
-faiths_and_powers
+a7#improvedshamanicdance
 deitiesoffaerun
 ihateundead
+faiths_and_powers
 low_magic
 derats_kits
 a7#improvedarcher
@@ -257,7 +258,6 @@ charlatan
 might_and_guile
 fnp_multiclass
 poison_no_bypass
-a7#improvedshamanicdance
 item_rev
 s9houserules
 housetweaks
