@@ -256,7 +256,7 @@ derats_kits
 a7#improvedarcher
 charlatan
 might_and_guile
-fnp_multiclass
+Faiths_and_Powers_Multiclass
 poison_no_bypass
 item_rev
 s9houserules
