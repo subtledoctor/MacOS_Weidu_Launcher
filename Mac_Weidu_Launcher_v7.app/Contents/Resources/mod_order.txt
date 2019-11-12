@@ -247,9 +247,10 @@ tomeandblood
 a7-golemconstruction
 a7-chaossorcerer
 palemaster
-a7#improvedshamanicdance
+StormCaller
 deitiesoffaerun
 ihateundead
+a7#improvedshamanicdance
 faiths_and_powers
 low_magic
 derats_kits
