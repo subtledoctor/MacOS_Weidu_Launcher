@@ -5,6 +5,7 @@ leui
 eeuitweaks
 hiddengameplayoptions
 iwdnpc
+turaldnpc
 darkhorizonsbgee
 roterror
 bggoeet
@@ -232,6 +233,7 @@ hammers
 s3disclubs
 silver_staff_of_aule
 item_rev
+lavait-iwd
 msfm
 stuffofthemagi
 viconiarevamped
