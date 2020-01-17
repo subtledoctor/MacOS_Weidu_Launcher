@@ -59,9 +59,12 @@ aura_bg1
 glamnpcpack
 bg1re
 rosere
+c#greythedog
+c#brage
 jimfix
 ascension
 bg1ub
+c#endlessbg1
 shineoncaelar
 kittomes
 7c#sartweak
@@ -99,6 +102,8 @@ dakkon
 swordap
 bg2eear
 bg2eew
+cliffhistory
+amber
 amber_eet
 ajantisbg2
 kivan
@@ -124,9 +129,7 @@ tyrisflare
 yvette
 adrian
 arath
-arath_eet
 dace
-dace_eet
 aranw
 isra_bg2
 theundying
@@ -273,6 +276,7 @@ housetweaks
 c#sodtweaks
 cdtweaks
 metweaks
+Imoen4Ever
 imoencandie
 imoenisstone
 eet_end
