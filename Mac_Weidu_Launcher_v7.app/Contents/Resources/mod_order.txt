@@ -252,6 +252,7 @@ rr
 monasticorders
 tomeandblood
 ManaSorc
+will_to_power
 a7-golemconstruction
 a7-chaossorcerer
 palemaster
