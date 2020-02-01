@@ -252,7 +252,6 @@ rr
 monasticorders
 tomeandblood
 ManaSorc
-will_to_power
 a7-golemconstruction
 a7-chaossorcerer
 palemaster
@@ -265,6 +264,7 @@ low_magic
 derats_kits
 a7#improvedarcher
 charlatan
+will_to_power
 might_and_guile
 fnp_multiclass
 faiths_and_powers_multiclass
