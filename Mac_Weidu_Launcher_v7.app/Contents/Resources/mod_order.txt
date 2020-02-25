@@ -250,6 +250,7 @@ sword_and_fist
 mercenary
 rr
 monasticorders
+d5_Random_Tweaks
 tomeandblood
 ManaSorc
 a7-golemconstruction
