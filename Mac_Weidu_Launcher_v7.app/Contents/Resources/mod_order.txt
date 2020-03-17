@@ -188,7 +188,6 @@ turnabout
 longerroad
 longerroadee
 a7-testyourmettle
-a7-totlm-bg2ee
 weasels!
 wheels
 edwinromance
@@ -198,7 +197,6 @@ sirene_bg2
 acbre
 eternalimoen
 djinnicompanion
-iylos
 wilsonchronicles
 crossmodbg2
 spell_rev
@@ -227,6 +225,7 @@ k9roughworld
 sentrizeal_aa_pack
 iwdification
 stratagems
+a7-totlm-bg2ee
 npc_tweak
 wildmage
 deepgnomes
