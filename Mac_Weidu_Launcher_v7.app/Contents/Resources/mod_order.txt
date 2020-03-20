@@ -284,6 +284,7 @@ eet_end
 animalcompanions
 refinements
 scales_of_balance
+randomiser
 stratagems
 magic_battles_revised
 bgeespawn
@@ -305,7 +306,6 @@ enchant
 scrollcasterlevelmod
 colorful_specialist_slots
 dual_to_kit
-randomiser
 eet_tweaks
 thepicturestandard
 a7noeenpcs
