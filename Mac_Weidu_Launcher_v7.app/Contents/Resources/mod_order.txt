@@ -233,6 +233,7 @@ ee_content_tweaks
 w_packmule
 unofficial item pack
 hammers
+valhorn
 s3disclubs
 silver_staff_of_aule
 setup-mih_ip
