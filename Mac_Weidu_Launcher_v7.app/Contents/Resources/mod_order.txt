@@ -236,6 +236,7 @@ wildmage
 deepgnomes
 ee_content_tweaks
 w_packmule
+unofficial_item_pack
 unofficial item pack
 hammers
 s3disclubs
