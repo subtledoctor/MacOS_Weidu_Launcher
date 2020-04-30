@@ -87,6 +87,8 @@ innershade
 whitequeen
 eilistraee
 isnf
+ub
+arestorationp
 fishingfortrouble
 southernedge
 ooze
@@ -103,6 +105,8 @@ swordap
 bg2eear
 bg2eew
 cliffhistory
+d0questpack
+hiddenadventure
 amber
 amber_eet
 ajantisbg2
@@ -151,6 +155,7 @@ imoenfriendship
 imoenromance
 coran
 lavalygar
+haerdalis_friendship
 sarevokfriendship
 branwen
 quayle
@@ -165,7 +170,6 @@ derats_ogre
 dungeonbegone
 skipchateauirenicus
 teleport
-arestorationp
 tashia
 solaufein
 c#solaufein
@@ -178,12 +182,11 @@ npcflirt
 re
 haerdalisromance
 nephele
-ub
+petsy
 skiecost
 g3anniversary
 alternatives
 fadingpromises
-d0questpack
 turnabout
 longerroad
 longerroadee
@@ -226,6 +229,7 @@ sentrizeal_aa_pack
 iwdification
 stratagems
 a7-totlm-bg2ee
+poison_no_bypass
 npc_tweak
 wildmage
 deepgnomes
@@ -233,11 +237,11 @@ ee_content_tweaks
 w_packmule
 unofficial item pack
 hammers
-valhorn
 s3disclubs
 silver_staff_of_aule
 setup-mih_ip
 item_rev
+valhorn
 lavait-iwd
 msfm
 stuffofthemagi
@@ -267,10 +271,10 @@ a7#improvedarcher
 charlatan
 will_to_power
 might_and_guile
+refinements
 fnp_multiclass
 faiths_and_powers_multiclass
 Spontaneous_Casting
-poison_no_bypass
 setup-mih_tweaks
 item_rev
 s9houserules
@@ -281,9 +285,11 @@ metweaks
 Imoen4Ever
 imoencandie
 imoenisstone
+trap_overhaul
+enchant
+scrollcasterlevelmod
 eet_end
 animalcompanions
-refinements
 scales_of_balance
 randomiser
 stratagems
@@ -302,9 +308,6 @@ jimfix
 difftweak
 fullplate
 xpmod
-trap_overhaul
-enchant
-scrollcasterlevelmod
 colorful_specialist_slots
 dual_to_kit
 eet_tweaks
