@@ -155,6 +155,7 @@ imoenfriendship
 imoenromance
 coran
 lavalygar
+valygarfriendship
 haerdalis_friendship
 sarevokfriendship
 branwen
