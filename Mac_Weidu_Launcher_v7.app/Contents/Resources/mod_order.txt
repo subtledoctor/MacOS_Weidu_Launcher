@@ -312,7 +312,6 @@ difftweak
 fullplate
 xpmod
 colorful_specialist_slots
-dual_to_kit
 eet_tweaks
 thepicturestandard
 a7noeenpcs
@@ -331,5 +330,7 @@ minornpcportraitsforiwdee
 lightingpack
 ajantisportraitpack
 etamin_soundsets
+a7-TextureConvert
+dual_to_kit
 npc_ee
 m7multikit
