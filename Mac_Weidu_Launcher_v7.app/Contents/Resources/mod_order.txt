@@ -256,6 +256,7 @@ song_and_silence
 sword_and_fist
 mercenary
 rr
+refinements
 monasticorders
 d5_Random_Tweaks
 tomeandblood
