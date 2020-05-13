@@ -164,6 +164,7 @@ quayle
 wings
 aura
 allthingsmazzy
+jansquest
 willowisp
 yoshimosremorse
 lucy
@@ -289,6 +290,7 @@ Imoen4Ever
 imoencandie
 imoenisstone
 trap_overhaul
+spell_weapons
 enchant
 scrollcasterlevelmod
 eet_end
@@ -330,7 +332,7 @@ minornpcportraitsforiwdee
 lightingpack
 ajantisportraitpack
 etamin_soundsets
-a7-TextureConvert
 dual_to_kit
+a7-TextureConvert
 npc_ee
 m7multikit
