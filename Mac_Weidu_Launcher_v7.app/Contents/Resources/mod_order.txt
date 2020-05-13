@@ -105,6 +105,7 @@ swordap
 bg2eear
 bg2eew
 cliffhistory
+emad
 d0questpack
 turnabout
 hiddenadventure
@@ -164,7 +165,7 @@ quayle
 wings
 aura
 allthingsmazzy
-jansquest
+janquest
 willowisp
 yoshimosremorse
 lucy
@@ -237,6 +238,7 @@ wildmage
 deepgnomes
 ee_content_tweaks
 w_packmule
+cliffkey
 unofficial_item_pack
 unofficial item pack
 hammers
