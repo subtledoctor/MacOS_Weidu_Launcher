@@ -310,6 +310,7 @@ bpseries
 relievewizardslayer
 wsr
 atweaks
+scales_of_balance
 eetact2
 klatu
 jimfix
