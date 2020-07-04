@@ -91,6 +91,7 @@ arestorationp
 ub
 fishingfortrouble
 southernedge
+TangledIsle
 ooze
 azenmod
 com_encounters
@@ -262,6 +263,7 @@ refinements
 monasticorders
 d5_random_tweaks
 tomeandblood
+d5_arcanist
 ManaSorc
 a7-golemconstruction
 a7-chaossorcerer
@@ -301,7 +303,6 @@ animalcompanions
 scales_of_balance
 randomiser
 stratagems
-magic_battles_revised
 bgeespawn
 npc_strongholds
 butchery
@@ -336,7 +337,7 @@ minornpcportraitsforiwdee
 lightingpack
 ajantisportraitpack
 etamin_soundsets
-dual_to_kit
 a7-TextureConvert
+dual_to_kit
 npc_ee
 m7multikit
