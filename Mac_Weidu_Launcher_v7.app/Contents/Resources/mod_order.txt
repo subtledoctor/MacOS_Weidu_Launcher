@@ -110,6 +110,8 @@ emad
 d0questpack
 turnabout
 hiddenadventure
+snakes
+dw_lanthorn
 amber
 amber_eet
 ajantisbg2
@@ -231,6 +233,7 @@ cliffkey
 unofficial_item_pack
 unofficial item pack
 item_rev
+heartwood
 hammers
 s3disclubs
 valhorn
