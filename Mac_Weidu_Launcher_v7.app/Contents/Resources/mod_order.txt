@@ -280,6 +280,7 @@ StormCaller
 deitiesoffaerun
 ihateundead
 a7#improvedshamanicdance
+item_rev
 faiths_and_powers
 derats_kits
 a7#improvedarcher
@@ -289,7 +290,6 @@ might_and_guile
 fnp_multiclass
 faiths_and_powers_multiclass
 Spontaneous_Casting
-item_rev
 low_magic
 setup-mih_tweaks
 s9houserules
