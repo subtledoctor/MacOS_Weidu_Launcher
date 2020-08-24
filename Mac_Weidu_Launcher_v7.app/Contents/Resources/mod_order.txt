@@ -308,6 +308,7 @@ animalcompanions
 scales_of_balance
 randomiser
 stratagems
+d5_random_tweaks
 bgeespawn
 npc_strongholds
 butchery
