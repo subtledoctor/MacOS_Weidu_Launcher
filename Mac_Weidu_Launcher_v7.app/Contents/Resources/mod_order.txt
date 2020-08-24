@@ -238,7 +238,6 @@ hammers
 s3disclubs
 valhorn
 lavait-iwd
-msfm
 stuffofthemagi
 silver_staff_of_aule
 setup-mih_ip
@@ -281,6 +280,7 @@ deitiesoffaerun
 ihateundead
 a7#improvedshamanicdance
 item_rev
+msfm
 faiths_and_powers
 derats_kits
 a7#improvedarcher
