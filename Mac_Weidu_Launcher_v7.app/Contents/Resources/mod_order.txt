@@ -311,6 +311,7 @@ scales_of_balance
 randomiser
 stratagems
 d5_random_tweaks
+tb#tweaks
 bgeespawn
 npc_strongholds
 butchery
@@ -347,7 +348,6 @@ ajantisportraitpack
 etamin_soundsets
 a7-TextureConvert
 colorful_specialist_slots
-dual_to_kit
 npc_ee
+dual_to_kit
 m7multikit
-tb#tweaks
