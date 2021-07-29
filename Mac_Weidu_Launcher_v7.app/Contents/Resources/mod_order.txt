@@ -289,7 +289,7 @@ charlatan
 will_to_power
 5E_spellcasting
 might_and_guile
-fnp_multiclass
+FnP_Multiclass
 faiths_and_powers_multiclass
 Spontaneous_Casting
 low_magic
