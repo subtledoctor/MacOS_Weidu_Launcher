@@ -315,7 +315,7 @@ eet_end
 scales_of_balance
 randomiser
 stratagems
-d5_random_tweaks
+Magic_Battles_Revised
 tb#tweaks
 bgeespawn
 butchery
