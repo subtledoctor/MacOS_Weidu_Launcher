@@ -27,6 +27,7 @@ ascension
 ac_quest
 wbgtap
 karatur
+c#sodboabri
 acbre
 eternalimoen
 bg1aerie
@@ -36,10 +37,14 @@ bgeew
 animus
 convinientammunition
 wmart
+c#endlessbg1
+transitions
 c#brage
+c#brandock
 bg1npc
 bg1npcmusic
-c#endlessbg1
+themed_tweaks
+themed_tweaks_v2
 indinpc
 mur'neth
 xanbg1friend
@@ -73,7 +78,7 @@ bg1ub
 thecalling
 bst
 sotsc
-transitions
+sodrtd
 shineoncaelar
 kittomes
 7c#sartweak
@@ -201,6 +206,8 @@ faren
 sirene_bg2
 corwineet
 c#greythedog
+c#grey
+c#husam
 skiecost
 g3anniversary
 re
@@ -297,6 +304,7 @@ will_to_power
 might_and_guile
 FnP_Multiclass
 faiths_and_powers_multiclass
+skills-and-abilities
 Spontaneous_Casting
 low_magic
 mih_tweaks
@@ -317,11 +325,13 @@ animalcompanions
 a7noeenpcs
 jaheirarecast
 chattyimoen
+Diablofication
 eet_end
 scales_of_balance
 randomiser
 stratagems
 Magic_Battles_Revised
+enhanced-powergaming-scripts
 tb#tweaks
 bgeespawn
 butchery
