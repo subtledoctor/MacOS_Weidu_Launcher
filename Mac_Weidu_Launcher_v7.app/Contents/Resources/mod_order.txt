@@ -35,7 +35,6 @@ wbgtap
 karatur
 c#sodboabri
 c#anotherfinehell
-acbre
 eternalimoen
 bg1aerie
 thalan
@@ -44,8 +43,6 @@ bgeew
 animus
 convinientammunition
 wmart
-c#brage
-c#brandock
 bg1npc
 bg1npcmusic
 ac_quest
@@ -61,6 +58,9 @@ ajantisbg1
 finchnpc
 gavin
 valerie
+alternatives
+c#brage
+c#brandock
 isra
 white
 verrsza
@@ -82,6 +82,10 @@ helarine_bgee
 jimfix
 bg1ub
 bst
+amber
+amber_eet
+aurenaseph
+acbre
 thecalling
 thevanishingofskiesilvershield
 sodrtd
@@ -135,8 +139,6 @@ willowisp
 hiddenadventure
 snakes
 dw_lanthorn
-amber
-amber_eet
 ajantisbg2
 kivan
 fade
@@ -146,7 +148,6 @@ yeslicknpc
 gavin_bg2
 yasraena
 alora
-aurenaseph
 tiax
 sarahtob
 angelo
@@ -220,7 +221,6 @@ c#husam
 skiecost
 g3anniversary
 haerdalisromance
-alternatives
 fadingpromises
 longerroad
 longerroadee
