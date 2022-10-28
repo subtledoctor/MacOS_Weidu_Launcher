@@ -131,7 +131,6 @@ com_encounters
 impasylum
 planarspheremod
 magestronghold_eet
-mih_eq
 bom
 fr_rov
 itemupgrade
@@ -248,6 +247,7 @@ imoenisstone
 subrace
 c#solaufein
 npcflirt
+mih_eq
 npckit
 extra_kits
 kitpack
