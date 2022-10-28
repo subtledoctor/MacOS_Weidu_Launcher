@@ -75,16 +75,22 @@ drake
 rosere
 rose
 helga
+kale
+emily
+vienxay
 saradas_magic
 aura_bg1
 glamnpcpack
 helarine_bgee
+walahnan
+bristlelick
 jimfix
 bg1ub
 bst
 amber
 amber_eet
 aurenaseph
+btl
 acbre
 thecalling
 thevanishingofskiesilvershield
@@ -126,6 +132,7 @@ com_encounters
 impasylum
 planarspheremod
 magestronghold_eet
+mih_eq
 bom
 fr_rov
 itemupgrade
@@ -139,6 +146,7 @@ willowisp
 hiddenadventure
 snakes
 dw_lanthorn
+herthimoney
 ajantisbg2
 kivan
 fade
@@ -191,6 +199,8 @@ sarevokfriendship
 quayle
 wings
 aura
+paina
+fhaugy
 allthingsmazzy
 janquest
 yoshimosremorse
@@ -205,6 +215,7 @@ kelsey
 keto
 nathaniel
 iylos
+skitianpcs
 hephernaanbg2
 evandra
 darron
@@ -212,6 +223,7 @@ nephele
 petsy
 faren
 sirene_bg2
+walahnanbg2
 corwineet
 npc_strongholds
 c#brandock
@@ -261,14 +273,17 @@ heartwood
 hammers
 s3disclubs
 valhorn
+ofheirloomsandclasses
 lavait-iwd
 stuffofthemagi
 silver_staff_of_aule
+forgotten-armament
 mih_ip
 mih_sp
 spell_rev
 k9roughworld
 sentrizeal_aa_pack
+how_eet
 iwdification
 stratagems
 a7-totlm-bg2ee
@@ -358,6 +373,7 @@ eet_tweaks
 thepicturestandard
 area_patcher
 item_patcher
+ee_cosmetic_enhancements
 bp-bgt-worldmap
 isandir
 artaport
@@ -372,6 +388,7 @@ etamin_soundsets
 colorful_specialist_slots
 m7multikit
 npc_ee
+z_hotfixes
 dual_to_kit
 a7-TextureConvert
 generalized_biffing
