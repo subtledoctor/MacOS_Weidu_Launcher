@@ -350,6 +350,7 @@ Diablofication
 eet_end
 randomiser
 stratagems
+AMMOLESS
 Magic_Battles_Revised
 enhanced-powergaming-scripts
 tb#tweaks
