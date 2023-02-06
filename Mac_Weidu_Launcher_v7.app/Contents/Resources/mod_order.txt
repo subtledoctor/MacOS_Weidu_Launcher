@@ -115,6 +115,8 @@ whitequeen
 isnf
 TangledIsle
 bridgesblock
+AlabasterSands
+WhinHill
 backbrynnlaw
 sellswords
 assassinations
@@ -284,6 +286,7 @@ sentrizeal_aa_pack
 how_eet
 iwdification
 stratagems
+iwd1_eet
 a7-totlm-bg2ee
 poison_no_bypass
 npc_tweak
