@@ -15,14 +15,19 @@ darkhorizonsbgee
 roterror
 bggoeet
 toa
-sotsc
 dsotsc
 dsotscbgee
 ntotsc
+sotsc
 drizztsaga
+ctb
 bg1re
+ascension
+wheels
+longerroad
 arestorationp
 bgqe
+c#sodtweaks
 tgc1e
 vaulteet
 bonehilleet
@@ -30,7 +35,6 @@ tddz
 sos
 sirinescall
 soa
-ascension
 wbgtap
 karatur
 c#sodboabri
@@ -334,7 +338,6 @@ low_magic
 mih_tweaks
 s9houserules
 housetweaks
-c#sodtweaks
 polyvorp
 cdtweaks
 metweaks
