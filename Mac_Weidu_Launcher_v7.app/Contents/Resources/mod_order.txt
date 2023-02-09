@@ -287,9 +287,9 @@ mih_sp
 spell_rev
 k9roughworld
 sentrizeal_aa_pack
-how_eet
 iwdification
 stratagems
+how_eet
 iwd1_eet
 a7-totlm-bg2ee
 poison_no_bypass
