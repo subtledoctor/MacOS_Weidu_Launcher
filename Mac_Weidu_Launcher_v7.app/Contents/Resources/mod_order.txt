@@ -292,6 +292,7 @@ stratagems
 how_eet
 iwd1_eet
 a7-totlm-bg2ee
+mespells
 poison_no_bypass
 npc_tweak
 wildmage
@@ -306,7 +307,6 @@ song_and_silence
 sword_and_fist
 mercenary
 rr
-refinements
 bardicwonders
 arcanearcher
 shadowadept
@@ -323,6 +323,7 @@ ihateundead
 a7#improvedshamanicdance
 item_rev
 msfm
+refinements
 faiths_and_powers
 derats_kits
 a7#improvedarcher
