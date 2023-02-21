@@ -291,6 +291,7 @@ iwdification
 stratagems
 how_eet
 iwd1_eet
+iwd2_eet
 a7-totlm-bg2ee
 mespells
 poison_no_bypass
