@@ -250,7 +250,6 @@ djinnicompanion
 wilsonchronicles
 crossmodbg2
 imoencandie
-imoenisstone
 npcflirt
 mih_eq
 npckit
@@ -285,6 +284,7 @@ forgotten-armament
 mih_ip
 mih_sp
 spell_rev
+imoenisstone
 k9roughworld
 sentrizeal_aa_pack
 iwdification
