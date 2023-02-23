@@ -228,6 +228,8 @@ faren
 sirene_bg2
 walahnanbg2
 corwineet
+subrace
+c#solaufein
 npc_strongholds
 c#brandock
 c#greythedog
@@ -249,8 +251,6 @@ wilsonchronicles
 crossmodbg2
 imoencandie
 imoenisstone
-subrace
-c#solaufein
 npcflirt
 mih_eq
 npckit
