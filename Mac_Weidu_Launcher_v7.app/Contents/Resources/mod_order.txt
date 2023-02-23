@@ -292,7 +292,9 @@ stratagems
 how_eet
 iwd1_eet
 iwd2_eet
+icewind_eet
 a7-totlm-bg2ee
+d5_iwd_eet_integration
 mespells
 poison_no_bypass
 npc_tweak
