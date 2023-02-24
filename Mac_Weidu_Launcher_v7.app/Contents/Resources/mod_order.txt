@@ -297,7 +297,6 @@ icewind_eet
 a7-totlm-bg2ee
 d5_iwd_eet_integration
 mespells
-poison_no_bypass
 npc_tweak
 wildmage
 deepgnomes
@@ -344,6 +343,7 @@ low_magic
 mih_tweaks
 s9houserules
 housetweaks
+poison_no_bypass
 polyvorp
 cdtweaks
 metweaks
