@@ -353,7 +353,6 @@ trap_overhaul
 spell_weapons
 enchant
 scrollcasterlevelmod
-npc_strongholds
 animalcompanions
 a7noeenpcs
 jaheirarecast
