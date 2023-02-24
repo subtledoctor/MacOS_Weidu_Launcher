@@ -331,11 +331,11 @@ charlatan
 refinements
 will_to_power
 might_and_guile
+item_rev
 faiths_and_powers
 FnP_Multiclass
 faiths_and_powers_multiclass
 5E_spellcasting
-item_rev
 d5_random_tweaks
 skills-and-abilities
 Spontaneous_Casting
