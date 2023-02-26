@@ -352,6 +352,7 @@ Imoen4Ever
 trap_overhaul
 spell_weapons
 enchant
+AMMOLESS
 scrollcasterlevelmod
 animalcompanions
 a7noeenpcs
@@ -361,7 +362,6 @@ Diablofication
 eet_end
 randomiser
 stratagems
-AMMOLESS
 butchery
 relievewizardslayer
 wsr
