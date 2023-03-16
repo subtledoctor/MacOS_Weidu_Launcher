@@ -285,6 +285,7 @@ forgotten-armament
 mih_ip
 mih_sp
 spell_rev
+d5_SR_4b19_Sleep_fix
 imoenisstone
 k9roughworld
 sentrizeal_aa_pack
@@ -315,6 +316,7 @@ bardicwonders
 arcanearcher
 shadowadept
 monasticorders
+a7#improvedshamanicdance
 d5_random_tweaks
 polydisp
 a7-chaossorcerer
@@ -324,7 +326,6 @@ palemaster
 StormCaller
 deitiesoffaerun
 ihateundead
-a7#improvedshamanicdance
 derats_kits
 a7#improvedarcher
 charlatan
