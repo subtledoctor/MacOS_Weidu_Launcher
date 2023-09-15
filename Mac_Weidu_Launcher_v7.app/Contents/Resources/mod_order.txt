@@ -124,6 +124,11 @@ WhinHill
 backbrynnlaw
 sellswords
 assassinations
+tidings
+inloveundeath
+juniperandthestoneleech
+blackhearts
+blackhearts_eet
 lucy
 emad
 c#sb_silber
@@ -204,6 +209,8 @@ wings
 aura
 paina
 fhaugy
+lhannd
+fyalvara
 allthingsmazzy
 janquest
 yoshimosremorse
@@ -296,6 +303,7 @@ iwd1_eet
 iwd2_eet
 icewind_eet
 a7-totlm-bg2ee
+trap_overhaul
 d5_iwd_eet_integration
 mespells
 npc_tweak
@@ -350,7 +358,6 @@ cdtweaks
 metweaks
 jtweaks
 Imoen4Ever
-trap_overhaul
 spell_weapons
 enchant
 AMMOLESS
