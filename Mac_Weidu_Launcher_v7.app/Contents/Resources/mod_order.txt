@@ -326,6 +326,7 @@ shadowadept
 monasticorders
 a7#improvedshamanicdance
 d5_random_tweaks
+SubtleD_Spell_Tweaks
 polydisp
 a7-chaossorcerer
 tomeandblood
@@ -374,6 +375,9 @@ butchery
 relievewizardslayer
 wsr
 atweaks
+SubtleD_Item_Tweaks
+Combat_Skill_Proficiencies
+SubtleD_Stat_Overhauls
 scales_of_balance
 Magic_Battles_Revised
 enhanced-powergaming-scripts
