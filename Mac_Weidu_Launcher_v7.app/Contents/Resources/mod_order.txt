@@ -307,8 +307,6 @@ iwdnpc
 turaldnpc
 dusky
 cassianpc
-karihinpc
-minervanpc
 skineater
 ourlady
 snowytoes
@@ -317,6 +315,8 @@ kuldahar
 oakmaw
 hommet
 lanna
+karihinpc
+minervanpc
 IWDCrossmodPack
 mespells
 npc_tweak
