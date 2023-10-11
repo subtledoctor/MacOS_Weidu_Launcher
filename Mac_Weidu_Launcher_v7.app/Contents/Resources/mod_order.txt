@@ -304,8 +304,8 @@ a7-totlm-bg2ee
 trap_overhaul
 d5_iwd_eet_integration
 iwdnpc
-turaldnpc
 dusky
+turaldnpc
 cassianpc
 skineater
 ourlady
