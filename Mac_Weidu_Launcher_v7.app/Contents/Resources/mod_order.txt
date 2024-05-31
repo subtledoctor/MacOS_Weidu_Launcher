@@ -15,7 +15,6 @@ bp_in_bg
 bg1ub
 arestorationp
 c#endlessbg1
-reflections
 c#anotherfinehell
 c#sodboabri
 c#sodtweaks
@@ -45,6 +44,7 @@ ac_quest
 bg1re
 sotsc
 thecalling
+reflections
 thevanishingofskiesilvershield
 vaulteet
 bonehilleet
