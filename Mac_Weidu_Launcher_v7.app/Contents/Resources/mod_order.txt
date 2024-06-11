@@ -19,17 +19,14 @@ c#anotherfinehell
 c#sodboabri
 c#sodtweaks
 imoen_forever
-godcall
 tddz
 toa
-tidings
 ascension
 transitions
 wheels
 alternatives
 longerroad
 wheels
-crucible
 darkhorizonsbgee
 roterror
 dsotsc
@@ -78,6 +75,7 @@ assassinations
 fishingfortrouble
 tod
 eetgbthfkp
+gbthfkp
 eilistraee
 innershade
 ooze
@@ -91,6 +89,9 @@ AlabasterSands
 WhinHill
 inloveundeath
 juniperandthestoneleech
+godcall
+tidings
+crucible
 backbrynnlaw
 sellswords
 emad
