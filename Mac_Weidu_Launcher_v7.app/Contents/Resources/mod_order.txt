@@ -64,7 +64,6 @@ blackhearts
 blackhearts_eet
 extraexpandedenhancedencounters
 themed_tweaks
-themed_tweaks_v2
 mih_eq
 ub
 re
@@ -89,6 +88,7 @@ AlabasterSands
 WhinHill
 inloveundeath
 juniperandthestoneleech
+BloodiedStingsOfBarovia
 godcall
 tidings
 crucible
@@ -263,7 +263,6 @@ allthingsmazzy
 herthimoney
 soddialogbanters
 SODRTD
-themed_tweaks
 itemupgrade
 thalan
 dakkon
