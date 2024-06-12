@@ -64,6 +64,7 @@ blackhearts
 blackhearts_eet
 extraexpandedenhancedencounters
 themed_tweaks
+bst
 mih_eq
 ub
 re
