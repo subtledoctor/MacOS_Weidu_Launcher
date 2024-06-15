@@ -236,6 +236,7 @@ petsy
 faren
 sirene_bg2
 walahnanbg2
+zakrion_bg2
 corwineet
 janquest
 yoshimosremorse
@@ -399,6 +400,7 @@ a7noeenpcs
 jaheirarecast
 chattyimoen
 Diablofication
+A7-ConvenientEENPCs
 eet_end
 randomiser
 stratagems
