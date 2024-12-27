@@ -300,6 +300,7 @@ how_eet
 iwd1_eet
 iwd2_eet
 icewind_eet
+iwd_eet_end
 a7-totlm-bg2ee
 trap_overhaul
 d5_iwd_eet_integration
