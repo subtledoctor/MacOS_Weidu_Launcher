@@ -1,0 +1,15 @@
+BACKUP ~_nada/backup~
+AUTHOR ~SubtleD~
+
+
+//do stuff__________________________________________________________________________
+//
+BEGIN ~initialize WeiDU~
+
+COPY_EXISTING ~sw1h04.itm~ ~override/d5__init.d5~
+IF_EXISTS
+
+//___________________________________________________________________________________
+//
+
+
