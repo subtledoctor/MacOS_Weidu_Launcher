@@ -11,9 +11,9 @@
 	<key>CFBundleIconFile</key>
 	<string>applet</string>
 	<key>CFBundleIdentifier</key>
-	<string>com.apple.ScriptEditor.id.MacOS Weidu Launcher v7</string>
+	<string>com.apple.ScriptEditor.id.MacOS Weidu Launcher v8</string>
 	<key>CFBundleInfoDictionaryVersion</key>
-	<string>8.3</string>
+	<string>8.4</string>
 	<key>CFBundleName</key>
 	<string>MacOS Weidu Launcher v8</string>
 	<key>CFBundlePackageType</key>
