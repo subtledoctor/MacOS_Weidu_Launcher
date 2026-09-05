@@ -3,6 +3,7 @@ dlcmerger
 eet
 infinityanimations
 recoloredbuttons
+IWDEE-UI-BGEE
 infinity_ui
 dragonspear_ui++
 leui
@@ -36,9 +37,15 @@ drizztsaga
 ctb
 tgc1e
 bgqe
-sirinescall
 ac_quest
+JA#BGT_AdvPack
+sirinescall
 bg1re
+FowlWish
+GoneNuts
+golden_horse
+DeadGardens
+BloodAndFaith
 sotsc
 thecalling
 reflections
@@ -92,11 +99,13 @@ WhinHill
 inloveundeath
 juniperandthestoneleech
 BloodiedStingsOfBarovia
-lfpg
-tpoj
+lfgp
+TPoJ
 godcall
 tidings
-poisoned_pathways
+ThroneoftheMadGod
+Poisoned_pathways
+Autumns_Twilight
 crucible
 backbrynnlaw
 sellswords
@@ -114,6 +123,7 @@ bg2eear
 bg2eew
 d0questpack
 turnabout
+thoghma
 hiddenadventure
 snakes
 slandor
@@ -240,6 +250,7 @@ petsy
 faren
 sirene_bg2
 walahnanbg2
+TheBeaurinLegacy
 zakrion_bg2
 corwineet
 janquest
@@ -279,6 +290,7 @@ kittomes
 unofficial_item_pack
 unofficial item pack
 sod2bg2_iu
+cd_project_javelin
 item_rev
 heartwood
 hammers
@@ -289,6 +301,7 @@ lavait-iwd
 stuffofthemagi
 silver_staff_of_aule
 forgotten-armament
+g3cip
 mih_ip
 mih_sp
 spell_rev
@@ -299,6 +312,7 @@ imoenisstone
 k9roughworld
 iwdification
 stratagems
+ZGMAGIC
 NWNforBG
 how_eet
 iwd1_eet
